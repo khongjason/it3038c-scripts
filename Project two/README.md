@@ -20,7 +20,7 @@ This is an README file for Project two for an Analog Clock
 3. it will display the current time.
 
 ##### CODE TO ANALOG CLOCK
-<strong>
+<dt>
 import pygame # it is a library, used to create video games; plays sound drawing graphics etc.
 from math import pi, cos, sin
 import datetime
@@ -97,4 +97,4 @@ def main():  # acts as the point of execution for any program
     pygame.quit() # runs code that deactivates the Pygame library.
      
 
-main()</strong>
+main()</dt>

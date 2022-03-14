@@ -1,8 +1,8 @@
 # it3038c-scripts project 2
-
-import pygame # it is a library, used to create video games; plays sound drawing graphics etc.
+# make sure you install pygame which is pip install pygame
+import pygame #it is a library, used to create video games; plays sound drawing graphics etc.
 from math import pi, cos, sin
-import datetime
+import datetime # setting datetime to be a reference to the class, then immediately setting it to be a reference to the module.
 
 WIDTH, HEIGHT = 800,800    # these just the height property of image, number of channels represents/ per pixel
 center = (WIDTH / 2, HEIGHT / 2)

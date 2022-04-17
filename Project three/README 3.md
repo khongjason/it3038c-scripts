@@ -1,6 +1,6 @@
 #  PROJECT 3
 
-This is an README file for Project two for an Analog Clock
+This is an README file for Project three for an Analog Clock
 
 *  First things to install
 1. Download Microsoft visual studio code: [Visual studio](https://code.visualstudio.com)
@@ -22,4 +22,4 @@ This is an README file for Project two for an Analog Clock
 ##### IMPROVEMENTS
 1. This is the link to project clock 1: [Clock](https://github.com/khongjason/it3038c-scripts/blob/main/project1/clock.py)
 2. project 2's link [Clock 2](https://github.com/khongjason/it3038c-scripts/blob/main/Project%20two/project%202%20clock.py)
-3. Project 3 adds the month and year visual. [Clock 3](https://github.com/khongjason/it3038c-scripts/blob/main/Project%203/project%203%20clock.py)
+3. Project 3 adds the month and year and the day visual. [Clock 3](https://github.com/khongjason/it3038c-scripts/blob/main/Project%203/project%203%20clock.py)

@@ -1,4 +1,4 @@
-#  PROJECT 2
+#  PROJECT 3
 
 This is an README file for Project two for an Analog Clock
 
@@ -18,6 +18,8 @@ This is an README file for Project two for an Analog Clock
 1. you will get an clock numbered 1 through 12.
 2. three hands will display; second, minute, and hour hand.
 3. it will display the current time.
+4. will see the month, date, and year
 ##### IMPROVEMENTS
-1. This ithe link to project clock 1: [Clock](https://github.com/khongjason/it3038c-scripts/blob/main/project1/clock.py)
-2. project 2 has more variation to it , besides just passing time in project 1, includes using math, and radius.
+1. This is the link to project clock 1: [Clock](https://github.com/khongjason/it3038c-scripts/blob/main/project1/clock.py)
+2. project 2's link [Clock 2](https://github.com/khongjason/it3038c-scripts/blob/main/Project%20two/project%202%20clock.py)
+3. Project 3 adds the month and year visual. [Clock 3](https://github.com/khongjason/it3038c-scripts/blob/main/Project%203/project%203%20clock.py)
